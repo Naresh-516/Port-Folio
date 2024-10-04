@@ -33,7 +33,7 @@ const Projects = () => {
           onClick={handlePrevious}
           src={Previous}
           disabled={index === 0}
-          className="absolute left-0 cursor-pointer w-10 h-10 disabled:opacity-0 m-0"
+          className="absolute left-0 cursor-pointer w-10 h-10 disabled:opacity-0 m-0" alt='prev button'
         />
          </div>
        
@@ -60,7 +60,7 @@ const Projects = () => {
           onClick={handleNext}
           disabled={index === projectsData.length - 1}
           className="absolute right-0 cursor-pointer w-10 h-10 disabled:opacity-50"
-          src={Next}
+          src={Next} alt='prev button'
         /></div>
       </div>
 
