@@ -1,1 +1,3 @@
 # Port-Folio
+Welcome to my portfolio! This website is built using React for a dynamic and interactive user experience, Tailwind CSS for a sleek and responsive design, and EmailJS for smooth email functionality. It showcases my skills, projects, and professional journey, providing an easy way to connect with me. Explore my work, view my past projects, and feel free to reach out through the contact form integrated seamlessly using EmailJS. Designed to be fully responsive, the portfolio adapts beautifully to any screen size, from mobile to desktop, ensuring a smooth experience across all devices.
+
