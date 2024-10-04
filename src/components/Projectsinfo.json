@@ -1,0 +1,40 @@
+[
+    {
+      "id": 1,
+      "name":"Pet Care System",
+      "image": "https://0701.static.prezi.com/preview/v2/4haqco5yeh4n6o2bas2ibet6up6jc3sachvcdoaizecfr3dnitcq_3_0.png",
+      "description": "This project focuses on building a comprehensive system for managing various aspects of pet care including health monitoring,appointment scheduling,diet management and grooming services.The main objectives are to provide an easy-to-use platform for pet owners and veterinarians to manage and track pet health,appointments, and overall well-being. ",
+      "technologies": ["Java", "HTML", "CSS","MySQL"]
+    },
+    {
+      "id": 2,
+      "name":"Trusted Crowdfunding using Blockchain Technology",
+      "image": "https://www.impactguru.com/info/wp-content/uploads/2023/03/crowdfunding-featured-image.jpg",
+      "description": "Worked on a project that used blockchain to secure crowdfunding campaigns, ensuring integrity by recording every transaction on a decentralized ledger with over 1,000 nodes.Blockchain’s transparency allowed real-time tracking of funds, preventing fraud and ensuring 100% visibility for backers and project creators. ",
+
+      "technologies": ["Java", "HTML", "CSS","MySQL"]
+    },
+    {
+      "id": 3,
+      "name":"Rock Paper Scissor",
+      "image": "https://media.geeksforgeeks.org/wp-content/uploads/20230802174130/Rock-Paper-Scissor.webp",
+      "description": "This is a Web application that allows players to compete against the computer, with a user interface and logic for determining winners based on the traditional rules of the game",
+      "technologies": ["HTML","CSS","JavaScript"]
+    },
+    {
+      "id": 4,
+      "name":"TODO List",
+      "image": "https://repository-images.githubusercontent.com/489113542/e1af2fe1-fe23-44d4-9678-5318cf0a2f2b",
+      "description": "I have developed a To-Do List web app, developed using HTML, CSS, and JavaScript, allows users to efficiently manage their daily tasks. Users can add, mark tasks as complete, and delete them in real time. The app also features local storage, ensuring tasks are saved even after refreshing the page. Its clean, responsive design makes it functional across both desktop and mobile devices.",
+      "technologies": ["HTML","CSS","JavaScript","Tailwind CSS"]
+    },
+    {
+      "id": 5,
+      "name":"Calculator",
+      "image": "https://static.vecteezy.com/system/resources/previews/004/987/809/original/calculator-icon-with-long-shadow-free-vector.jpg",
+      "description": "I have designed a calculator,which is a lightweight, responsive web application designed using HTML for structure, CSS for styling, and JavaScript for functionality. It allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division.",
+      "technologies": ["HTML","CSS","JavaScript","Tailwind CSS"]
+    }
+    
+  ]
+  
