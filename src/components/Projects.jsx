@@ -40,7 +40,7 @@ const Projects = () => {
         <div className="flex flex-col justify-center items-center sm:flex-row ">
         <img
           src={projectslist.image}
-          alt={projectslist.name}
+          alt='img'
           className="w-2/5 h-72 rounded-lg mx-4"
         />
          <div className="text-center mt-6 ">
