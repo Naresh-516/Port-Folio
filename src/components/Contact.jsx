@@ -44,7 +44,7 @@ const Contact = () => {
 
   return (
     <div className="bg-slate-800 text-white min h-screen py-20">
-      <p className="text-yellow-400 flex justify-center items-center font-bold text-3xl">Contact</p>
+      <p className="text-yellow-400 flex justify-center items-center font-bold text-3xl py-5">Contact</p>
       <div> 
       <form className="flex flex-col justify-center items-center max-w-lg mx-auto p-4 space-y-4" onSubmit={sendEmail}>
   <label className="text-lg font-medium">Name</label>

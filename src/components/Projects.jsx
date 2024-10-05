@@ -23,7 +23,7 @@ const Projects = () => {
 
   return (
     <div className="bg-slate-800 p-4  py-20">
-      <h2 className="text-yellow-400 flex justify-center items-center font-bold text-3xl mb-4">
+      <h2 className="text-yellow-400 flex justify-center items-center font-bold text-3xl mb-4 py-5">
         Projects
       </h2>
 
@@ -41,7 +41,7 @@ const Projects = () => {
         <img
           src={projectslist.image}
           alt='img'
-          className="w-2/5 h-72 rounded-lg mx-4"
+          className="w-80 h-50 rounded-lg mx-4"
         />
          <div className="text-center mt-6 ">
         <h2 className="text-amber-300 font-bold">{projectslist.name}</h2>

@@ -12,7 +12,7 @@ import oracle from '../Assets/oracle.png';
 const Skills = () => {
   return (
     <div className="bg-slate-800 text-white  py-20">
-      <h2 className="text-yellow-400 flex justify-center items-center font-bold text-3xl">Skills</h2>
+      <h2 className="text-yellow-400 flex justify-center items-center font-bold text-3xl py-5">Skills</h2>
       <div className="container mx-auto grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-8 place-items-center">
        
         <div className="hover:scale-110 transform transition duration-300">
