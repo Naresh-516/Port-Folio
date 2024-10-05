@@ -56,24 +56,23 @@ const Navbar = ({homeref,aboutref,skillsref,projectsref,contactref,scrollToSecti
       {/* Mobile Menu */}
       {isOpen && (
         <div className="md:hidden">
-          <a href="#home" className="block px-4 py-2 text-white">
-            Home
-          </a>
-          <a href="#about" className="block px-4 py-2 text-white">
-            About
-          </a>
-          <a href="#skills" className="block px-4 py-2 text-white">
+          
+          <button onClick={()=>scrollToSection(homeref)} className="block px-4 py-2 text-white">
+          Home
+          </button>
+          
+          <button onClick={()=>scrollToSection(aboutref)} className="block px-4 py-2 text-white">
+          About
+          </button>
+          <button onClick={()=>scrollToSection(skillsref)} className="block px-4 py-2 text-white">
             Skills
-          </a>
-          <a href="#projects" className="block px-4 py-2 text-white">
+            </button>
+          <button onClick={()=>scrollToSection(projectsref)} className="block px-4 py-2 text-white">
             Projects
-          </a>
-          <a href="#resume" className="block px-4 py-2 text-white">
-            Resume
-          </a>
-          <a href="#contact" className="block px-4 py-2 text-white">
+            </button>
+          <button onClick={()=>scrollToSection(contactref)}  className="block px-4 py-2 text-white">
             Contact
-          </a>
+            </button>
         </div>
       )}
     </nav>
